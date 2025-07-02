@@ -1,1 +1,1 @@
-# BIL362-Flame-Sensor-Ardunio-Nano
+# BIL362-Flame-Detector-Ardunio-Nano
